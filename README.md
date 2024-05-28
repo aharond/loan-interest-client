@@ -31,7 +31,7 @@ The following table contains full list of used environment variables:
 
 | Var                                  | Description                         | Default   | Example                                           |
 | ------------------------------------ | ----------------------------------- | --------- | ------------------------------------------------- |
-| `VITE_SERVER_URL`                 | Server URL for OpenAPI document     | _None_    | https://localhost:7051/api |
+| `VITE_SERVER_URL`                 | Server URL      | _None_    | https://localhost:7051/api |
 
 
 
