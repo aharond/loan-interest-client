@@ -10,6 +10,8 @@ Install:
 Open a terminal and run:
 
 ```bash
+git clone git@github.com:aharond/loan-interest-client.git
+cd loan-interest-client
 npm install
 npm run dev
 ```
